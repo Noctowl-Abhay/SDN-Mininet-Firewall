@@ -97,12 +97,6 @@ sudo mn -c
     ```
 > ![topology](./Screenshots/topology.png)
 
-
-**How My Topology is:**
-**h1 <->]                      [ <-> h4**
-**h2 <->] <--> s1 <--> s2 <--> [ <-> h5**
-**h3 <->]                      [ <-> h6**
-
 -----
 
 ## 4\. Test Scenarios and Functional Validation
